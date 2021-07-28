@@ -1,0 +1,6 @@
+{
+    "db": "mongodb://127.0.0.1:27017",
+    "cache": 3600,
+    "port": 4000,
+    "corsAllowList":["http://localhost", "http://127.0.0.1"]
+}

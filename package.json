@@ -1,16 +1,25 @@
 {
-  "name": "shorten-url",
+  "name": "sequelize-shorten-url",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Suyog Jadhav",
+  "author": "Suyog Dinesh Jadhav",
   "license": "ISC",
+  "description": "A Sequelize-based package for shortening URLs and tracking click counts.",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "mongodb": "^4.0.1"
+    "ssid": "^0.0.4"
+  },
+  "keywords": [
+    "sequelize",
+    "url-shortener",
+    "short-url",
+    "click-tracking",
+    "npm-package"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsuyog2/ShortenURL"
   }
 }

@@ -9,6 +9,18 @@
 - Retrieve original URLs and statistics.
 - Compatible with any database supported by Sequelize (e.g., MySQL, PostgreSQL, SQLite).
 
+## Badges
+
+![Node.js CI](https://github.com/jsuyog2/sequelize-shorten-url/actions/workflows/node.js.yml/badge.svg)
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+![Coverage](https://img.shields.io/codecov/c/github/jsuyog2/sequelize-shorten-url)
+
+![Version](https://img.shields.io/github/package-json/v/jsuyog2/sequelize-shorten-url.svg)
+
+![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)
+
 ## Installation
 
 Install the package via npm:

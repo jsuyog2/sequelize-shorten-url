@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="0.735">
+  <testsuite name="Shortener Module" errors="0" failures="0" skipped="0" timestamp="2024-08-22T05:11:06" time="0.671" tests="5">
+    <testcase classname="Shortener Module should create a short URL and store it in the database" name="Shortener Module should create a short URL and store it in the database" time="0.012">
+    </testcase>
+    <testcase classname="Shortener Module should retrieve original URL and increment click count" name="Shortener Module should retrieve original URL and increment click count" time="0.002">
+    </testcase>
+    <testcase classname="Shortener Module should return null when short URL is not found" name="Shortener Module should return null when short URL is not found" time="0.001">
+    </testcase>
+    <testcase classname="Shortener Module should retrieve URL statistics" name="Shortener Module should retrieve URL statistics" time="0.002">
+    </testcase>
+    <testcase classname="Shortener Module should return null for stats when short URL is not found" name="Shortener Module should return null for stats when short URL is not found" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>

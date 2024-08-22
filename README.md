@@ -11,7 +11,7 @@
 
 ## Badges
 
-![Node.js CI](https://github.com/jsuyog2/sequelize-shorten-url/actions/workflows/node.js.yml/badge.svg)
+![Node.js Package](https://github.com/jsuyog2/sequelize-shorten-url/actions/workflows/npm-publish.yml/badge.svg)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 

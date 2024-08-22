@@ -26,7 +26,7 @@
 Install the package via npm:
 
 ```bash
-npm install sequelize-shorten-url
+npm install @jsuyog2/sequelize-shorten-url
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ You can initialize the package by providing your Sequelize configuration or an e
 
 ```javascript
 const { Sequelize } = require('sequelize');
-const createShortener = require('sequelize-shorten-url');
+const createShortener = require('@jsuyog2/sequelize-shorten-url');
 
 // Example: Using a Sequelize configuration object
 const sequelize = new Sequelize('database', 'username', 'password', {

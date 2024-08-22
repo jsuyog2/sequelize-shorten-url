@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-shorten-url",
+  "name": "@jsuyog2/sequelize-shorten-url",
   "version": "1.0.3",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsuyog2/sequelize-shorten-url"
+    "url": "git+https://github.com/jsuyog2/sequelize-shorten-url.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
